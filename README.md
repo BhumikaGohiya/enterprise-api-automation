@@ -100,29 +100,6 @@ This framework reflects how I work in real QA/SDET environments.
 
 ---
 
-# ✅ STEP 2 — GitHub Repository Description (short & strong)
 
-### Paste this into **GitHub → About section**
 
-> **Enterprise-grade API automation framework built with Java, Rest Assured, and JUnit 5.  
-Covers positive, negative, and authorized API flows using reusable request builders, payload factories, and real-world data quality validations.**
-
----
-
-# ✅ STEP 3 — Resume / LinkedIn Project Bullets (COPY-PASTE)
-
-Use **2–3 bullets max** 👇
-
-**Option A – Resume bullets**
-
-- Designed and implemented an **enterprise-style API automation framework** using Java, Rest Assured, and JUnit 5, covering positive, negative, and authorized flows  
-- Built reusable **request builders and payload factories**, improving test maintainability and reducing duplication  
-- Implemented **data-quality–focused negative testing**, capturing real production behavior instead of hard-failing on 200 responses  
-
-**Option B – LinkedIn project description**
-
-> Built an enterprise-grade API automation framework using Java, Rest Assured, and JUnit 5.  
-Focused on realistic negative testing, token-based authorization, and reusable test architecture aligned with real QA/SDET environments.
-
----
 
